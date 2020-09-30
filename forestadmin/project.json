@@ -1,9 +1,9 @@
 {
     "project": {
-      "name": "betrybe/sd-0x-block8-project-js-unit-tests",
+      "name": "tryber/sd-07-project-js-unit-tests-tests",
       "description": "Projeto de ES6 e Testes Unitários",
       "enabled": true,
-      "deadline": "YYYY-MM-DD 17:10:00",
+      "deadline": "2020-10-07 14:10:00",
       "requirements": [{
         "description": "Implemente a função do arquivo `src/average.js`",
         "enabled": true,
