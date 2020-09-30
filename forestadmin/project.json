@@ -1,6 +1,6 @@
 {
     "project": {
-      "name": "tryber/sd-07-project-js-unit-tests-tests",
+      "name": "tryber/sd-07-project-js-unit-tests",
       "description": "Projeto de ES6 e Testes Unitários",
       "enabled": true,
       "deadline": "2020-10-07 14:10:00",
